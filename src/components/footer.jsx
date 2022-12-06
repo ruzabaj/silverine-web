@@ -48,10 +48,8 @@ const Footer = () => {
       </div>
     </div>
   </div>
-  <div className="bg-gray-100">
     <div className="container text-center mx-auto py-4 px-5 flex flex-wrap flex-col sm:flex-row">
-      <p className="text-gray-500 lg:text-center sm:text-left">© 2022 Silverline System Integrators Pvt Ltd</p>
-    </div>
+      <p className="text-gray-500 lg:text-center">© 2022 Silverline System Integrators Pvt Ltd</p>
   </div>
 </footer>
   )

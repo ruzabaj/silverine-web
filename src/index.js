@@ -5,6 +5,7 @@ import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import { BrowserRouter as Router } from "react-router-dom";
 import Mainrouter from "./mainrouter";
+// import Routing from "./mainrouter/routing";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
